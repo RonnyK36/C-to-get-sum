@@ -36,5 +36,7 @@ int sum()
     cin >> y;
     int add = x + y;
     cout << "Sum is of " << x << " & " << y << " is " << add << endl;
+    cout << "Hello" << endl;
+    cout << "Another change";
     return add;
 }
